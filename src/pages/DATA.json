@@ -1,0 +1,54 @@
+[
+{
+    "Name":"Barbell Curl","Type":"Upper Body","Type2":"Workout",
+"Poster":"https://i.pinimg.com/originals/ab/15/59/ab1559f962dfeaa5230acf7cc138abdd.gif"
+},
+  {
+    "Name":"Dumbbell Cuban Press","Type":"Upper Body","Type2":"Workout",
+"Poster":"https://i.pinimg.com/originals/2b/ef/ba/2befbad569f6f8ad31fe03a77cf45ab6.gif"
+},
+{
+    "Name":"Zottman Curl","Type":"Upper Body","Type2":"Workout",
+"Poster":"https://i.pinimg.com/originals/4b/e4/68/4be46841032506b311d43b8d49c6a58a.gif"
+},
+{
+    "Name":"Dumbell Deep Squat","Type":"Lower Body","Type2":"Workout",
+"Poster":"https://i.pinimg.com/originals/b8/d9/2c/b8d92ce8771786a9fff29f298d228a5e.gif"
+},
+{
+    "Name":"Front Shoulder Raise","Type":"Upper Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/dd/01/d7/dd01d7f4b5a021849ab0a3e1a7f54c49.gif"
+    
+},
+{
+    "Name":"Front Squat","Type":"Lower Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/fc/5d/cd/fc5dcd6551c0bc325dd678d7f2977f8d.gif"
+    
+},
+{
+    "Name":"Front Raise","Type":"Upper Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/c4/4f/37/c44f378245d5457a17782642ae320135.gif"
+    
+},
+{
+    "Name":"Shoulder Shrug","Type":"Upper Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/33/75/a9/3375a97d4df29cf74794b71e3439a1fc.gif"
+    
+},
+{
+    "Name":"Dumbbell Roman Deadlift","Type":"Upper Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/d9/c9/31/d9c93145f420d2b50640cb561f35daf5.gif"
+    
+},
+{
+    "Name":"Chest Stretch","Type":"Chest","Type2":"Exercise",
+    "Poster":"https://i.pinimg.com/originals/f9/69/17/f96917eca63c436bcd85f7798a38aaac.gif"
+    
+},
+{
+    "Name":"Chest Stretch","Type":"Upper Body","Type2":"Workout",
+    "Poster":"https://i.pinimg.com/originals/e8/76/7f/e8767f1d1b53adfea0878d1fe868808e.gif"
+    
+}
+
+]

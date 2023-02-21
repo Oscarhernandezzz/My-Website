@@ -1,0 +1,107 @@
+.p1 {
+ font-size: 40px;
+    color: white;
+}
+.upgrade {
+
+
+
+
+
+    
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+  
+
+
+justify-content: center;
+align-items: center;
+background-size: cover;
+padding-top: 200px;
+padding-bottom: 200px;
+background-repeat: no-repeat;
+border-radius: 1rem;
+
+}
+.chartimg {
+    width: 100vh;
+    height: 100vh;
+}
+.para2 {
+    color: white;
+    font-size: 40px;
+}
+.charts {
+    color: lightcoral;
+    font-size: 30px;
+}
+.workoutpic {
+width: 100vh;
+height: 100vh;
+border-radius: 1rem;
+}
+.upgradeh1 {
+text-align: center;
+display: inline;
+
+}.limit {
+    color: red;
+    display: block;
+}
+.para1 {
+    color: lightcoral;
+    font-size: 50px;
+    align-items: center;
+}
+.headerstore {
+    font-size: 40px;
+   
+    color: rgb(184, 40, 40);
+}
+.probutton {
+    font-size: 35px;
+    color: white;
+   
+    cursor: pointer;
+    border: 40px hidden;
+    margin: 50px;
+    
+    border-radius: 0.5rem;
+    background-color: rgb(253, 89, 89);
+    padding: 40px;
+    width: 500px;
+    height: 120px;
+    border-style: none;
+    border-radius: 1rem;
+    color: white;
+    
+}
+.new1{
+background-image: "https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/Fitness/Articles/Twice+a+Day/man+working+out-carousel.jpg";
+}
+.special {
+    padding: 0;
+    margin: 0;
+ 
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list1{
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Work Sans', sans-serif;
+    list-style: none;
+    letter-spacing: 2.5px;
+}
+.list1:not(:last-child){
+    margin-bottom: 15px;
+
+}
+.list1:before{
+    content: "\235F";
+}
